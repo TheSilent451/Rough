@@ -1,0 +1,3 @@
+curl -k -H "X-Original-URL: /adcb/api/v3/productinstancecustomeraccountrelation" \
+     -H "X-Rewrite-URL: /adcb/api/v3/productinstancecustomeraccountrelation" \
+     https://adcb-zrpe-uat.zafincloud.com/
